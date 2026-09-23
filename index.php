@@ -43,7 +43,7 @@ if (isset($_GET['accion']) && $_GET['accion'] === 'limpiar') {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Registro de Alumnos</title>
+    <title>Registro de estudiantes - Talendev</title>
 
     <!-- Bootstrap -->
     <link
